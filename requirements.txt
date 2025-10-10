@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+opencv-python  
+cv2
+BytesIO
+Image
+tempfile
+time
+namedtuple
