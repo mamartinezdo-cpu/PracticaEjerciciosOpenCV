@@ -1,10 +1,9 @@
 import streamlit as st
 import sys
 import os
-sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 # Importar los módulos de ejercicios
-#from ejercicios import cap1, cap2, cap3, cap4, cap5, cap6, cap7, cap8, cap9, cap10, cap11
-
+from ejercicios import cap1, cap2, cap3, cap4, cap5, cap6, cap7, cap8, cap9, cap10, cap11
+sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 # Configuración general de la página
 st.set_page_config(
     page_title="Proyecto OpenCV - Ejercicios",
