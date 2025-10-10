@@ -12,3 +12,4 @@ regex
 reportlab
 python-docx
 Pillow
+opencv-python-headless
