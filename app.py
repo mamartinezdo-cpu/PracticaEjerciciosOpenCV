@@ -1,6 +1,6 @@
 import streamlit as st
 import sys
-import os
+import os 
 
 # Añadir ruta actual ANTES de importar los módulos
 sys.path.append(os.path.abspath(os.path.dirname(__file__)))
